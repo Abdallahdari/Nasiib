@@ -1,4 +1,3 @@
-import BoxScene from "@/app/_components/Example";
 import Hero from "./_components/Hero";
 import Steps from "./_components/main";
 import PropertyCards from "./_components/projects";
@@ -13,7 +12,6 @@ export default function Home() {
       <PropertyCards />
       <Testimonials />
       <Subhero />
-      {/* <BoxScene /> */}
     </div>
   );
 }

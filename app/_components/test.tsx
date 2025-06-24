@@ -52,11 +52,11 @@ export default function Testimonials() {
                 connecting discerning buyers and sellers with the world’s finest
                 properties. With a personalized, client-first approach, we
                 specialize in luxury residences, investment properties, and
-                unique estates across key international markets. Whether you're
-                looking to purchase your dream home, sell a prized asset, or
-                explore strategic opportunities, our experienced agents provide
-                exceptional service, deep market insights, and trusted expertise
-                every step of the way
+                unique estates across key international markets. Whether
+                you&apos;re looking to purchase your dream home, sell a prized
+                asset, or explore strategic opportunities, our experienced
+                agents provide exceptional service, deep market insights, and
+                trusted expertise every step of the way
               </p>
             </div>
 
